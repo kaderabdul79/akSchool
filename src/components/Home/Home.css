@@ -1,0 +1,13 @@
+.btn-regular{
+    padding: 10px 26px;
+    background-color: tan;
+    margin-right: 10px;
+}
+.scl{
+    
+    border-right: 2px solid grey;
+}
+.home{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
