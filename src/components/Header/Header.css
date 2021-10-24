@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(56, 173, 173);
+    padding: 8px 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.header span{
+    padding-right: 780px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
